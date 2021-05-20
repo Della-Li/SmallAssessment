@@ -1,0 +1,22 @@
+Requirement:
+
+    Implement an automated test that performs the following (steps); 
+	 • Access to *** website
+	 • Find the element
+	 • Input the username generated automatically 
+	 • Click the welcome button
+	 • Pop Welcome page
+
+Used Technologies:
+
+	Java, Selenium WebDriver
+
+Supported Browsers:
+
+        Chrome IE Firefox
+
+Run Test Steps:
+
+    1. Clone this project to a local folder
+    2. Install Eclipse and download relative chrome driver
+    3. Run this script
